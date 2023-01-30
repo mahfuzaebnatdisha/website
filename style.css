@@ -1,0 +1,28 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: olive;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;padding-left: 5%;
+}
+.half img{
+    width: 100%;
+}
+
+.button{
+    text-decoration: none;
+    
+    background-image: linear-gradient(olive, rgb(56, 68, 10));
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+}
